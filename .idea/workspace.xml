@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a8ebe19-45f8-444e-a5ab-b280a4cfba36" name="Changes" comment="lo que hizo mateo">
-      <change afterPath="$PROJECT_DIR$/prueba.ipynb" afterDir="false" />
+    <list default="true" id="4a8ebe19-45f8-444e-a5ab-b280a4cfba36" name="Changes" comment="version propia">
+      <change afterPath="$PROJECT_DIR$/pruebaenpython.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratorio_1_Robot_Aspiradora.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Laboratorio_1_Robot_Aspiradora.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/prueba.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +66,8 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lo que hizo mateo" />
-    <option name="LAST_COMMIT_MESSAGE" value="lo que hizo mateo" />
+    <MESSAGE value="version propia" />
+    <option name="LAST_COMMIT_MESSAGE" value="version propia" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
